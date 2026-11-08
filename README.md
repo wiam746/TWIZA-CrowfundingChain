@@ -1,5 +1,4 @@
-Co-authored-by: agourramhajar
-Co-authored-by: Sabah-123
+Co-authored-by: agourramhajar & Sabah-123
 # TWIZA — plateforme de financement participatif décentralisée à gouvernance par jeton
 
 Mini-projet du module **Blockchain** — ENSA Béni Mellal, filière Intelligence Artificielle et Cybersécurité.
