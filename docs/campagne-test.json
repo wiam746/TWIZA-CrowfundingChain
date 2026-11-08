@@ -1,0 +1,8 @@
+{
+  "name": "Campagne de test TWIZA",
+  "description": "Première campagne de test sur Hardhat Localhost.",
+  "objectif": "1 ETH",
+  "duree": "30 jours",
+  "beneficiaire": "Adresse du créateur de la campagne",
+  "projet": "TWIZA"
+}
